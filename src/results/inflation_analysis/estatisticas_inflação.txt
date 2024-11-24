@@ -1,0 +1,10 @@
+Estatísticas Descritivas da Inflação:
+
+count    311.000000
+mean       0.990418
+std        0.428717
+min        0.130000
+25%        0.730000
+50%        0.950000
+75%        1.230000
+max        3.330000
